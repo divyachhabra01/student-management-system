@@ -9,3 +9,4 @@ Student Management System is a microservice that provides apis for CRUD operatio
 * Mongo Express
 * Docker
 * Docker Compose
+* Project Lombok
